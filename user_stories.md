@@ -19,4 +19,4 @@
 14. As a reader I want to access to the books list so that I can choose a book from the list
 15. As a reader I want to access to a single book so that I can request a reservation from the library
 16. As a reader I want to have a info-page so that I can get details about a book
-17. as a reader I want to logout so that I can browse the website anonymously
+17. As a reader I want to logout so that I can browse the website anonymously
