@@ -26,9 +26,13 @@
 19. As a Library I want to have a profile so that I can show my e-mail
 20. As a Library I want to have a profile so that I can show my username
 21. As a Library I want to have a profile so that I can show my address
-22. As a Library I want to access to my books list so that I can display all my published books
-23. As a Library I want to have an "add book" form so that I can add a book to my list
-24. As a Library I want to have a "modify book" form so that I can modify a book
-25. As a Library I want to have access to my books list so that I can delete a book from my list
-26. As a Library I want to have access to my books list so that I can mark the book as borrowed
-27. As a Library I want to display the profile of my clients
+22. As a Library I want to access to my books list so that I can display all my available books
+23. As a Library I want to access to my books list so that I can display all my borrowed books
+24. As a Library I want to have an "add book" form so that I can add a book to my list
+25. As a Library I want to have a "modify book" form so that I can modify a book
+26. As a Library I want to have access to my books list so that I can delete a book from my list
+27. As a Library I want to have access to my books list so that I can mark the book as borrowed
+28. As a Library I want to have access to my books list so that I can mark the book as available
+29. As a Library I want to display my clients requests so that I can accept to borrow them a book
+30. As a Library I want to display my clients requests so that I can reject to borrow them a book
+31. As a Library I want to logout so that I can browse the website anonymously
